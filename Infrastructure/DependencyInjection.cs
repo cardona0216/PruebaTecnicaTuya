@@ -1,0 +1,39 @@
+﻿using Domain.Customers;
+using Domain.Primitives;
+using Infrastructure.Persistence;
+using Infrastructure.Persistence.Repositories;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+//using MySql.EntityFrameworkCore.Extensions;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Infrastructure
+{
+    public static class DependencyInjection
+    {
+        public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
+        {
+            services.AddPersistence(configuration);
+            return services;
+        }
+
+        private static IServiceCollection AddPersistence(this IServiceCollection services, IConfiguration configuration)
+        {
+            services.AddDbContext<ApplicationDbContext>(options =>
+            options.UseMySql(configuration.GetConnectionString("DbConexion"))); // Reemplaza esto con la versión de tu servidor MySQL
+    ));
+            services.AddScoped<ApplicationDbContext>(sp => 
+                                sp.GetRequiredService<ApplicationDbContext>());
+
+            services.AddScoped<IUnitOfWork>(sp => sp.GetRequiredService<ApplicationDbContext>());
+
+            services.AddScoped<ICustomerRepository, CustomerRepository>();
+            return services;
+        }
+    }
+}

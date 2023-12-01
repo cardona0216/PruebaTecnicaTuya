@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\Customer",
+    "\\Domain\\Primitives",
+    "\\Infrastructure",
+    "\\Infrastructure\\Persistence",
+    "\\Web.API"
+  ],
+  "SelectedNode": "\\Application",
+  "PreviewInSolutionExplorer": false
+}

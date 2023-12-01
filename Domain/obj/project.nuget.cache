@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDDoO9tsFS8XHLFTiZGJ4gBC/GBns4xkT5osgmus6LC2vbE0j/+4nrL+P3FU2GZByRHeWxA+xIV2dqPz8ANI9A==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\PruebaTecnica\\tuyaPrueba\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wcardona\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
+    "C:\\Users\\wcardona\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\wcardona\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\wcardona\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\wcardona\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\wcardona\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\wcardona\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\bin\Debug\net7.0\Application.deps.json
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\bin\Debug\net7.0\Application.dll
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\bin\Debug\net7.0\Application.pdb
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\bin\Debug\net7.0\Domain.dll
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\bin\Debug\net7.0\Domain.pdb
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\Application.dll
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\Application.pdb
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\bin\Debug\net7.0\Application.runtimeconfig.json
+C:\Proyectos\PruebaTecnica\tuyaPrueba\Application\obj\Debug\net7.0\Application.genruntimeconfig.cache
